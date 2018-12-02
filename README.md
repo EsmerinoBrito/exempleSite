@@ -1,0 +1,2 @@
+# exempleSite
+Static HUGO Site
